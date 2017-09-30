@@ -1,0 +1,6 @@
+C:\Users\yukishimizu\Documents\Visual Studio 2012\Projects\AutoClicker\AutoClicker\bin\Release\AutoClicker.exe
+C:\Users\yukishimizu\Documents\Visual Studio 2012\Projects\AutoClicker\AutoClicker\obj\Release\AutoClicker.Form1.resources
+C:\Users\yukishimizu\Documents\Visual Studio 2012\Projects\AutoClicker\AutoClicker\obj\Release\AutoClicker.Properties.Resources.resources
+C:\Users\yukishimizu\Documents\Visual Studio 2012\Projects\AutoClicker\AutoClicker\obj\Release\AutoClicker.csproj.GenerateResource.Cache
+C:\Users\yukishimizu\Documents\Visual Studio 2012\Projects\AutoClicker\AutoClicker\obj\Release\AutoClicker.exe
+C:\Users\yukishimizu\Documents\Visual Studio 2012\Projects\AutoClicker\AutoClicker\obj\Release\AutoClicker.csprojResolveAssemblyReference.cache
